@@ -1,7 +1,4 @@
-.container{
-}
-
-.start-bootstrap{
+.start-section{
     background-color:rgb(98, 243, 207);
     height: 400px;
     margin-bottom:50px;
@@ -17,18 +14,18 @@
     border:1px solid black;
 }
 
-.portfolio{
-    height:400px;
-    margin-bottom:50px;
+.section-portfolio{
+    height:500px;
 }
 
 .box-portfolio{
     height: 200px;
     border:1px solid black;
     background-color:rgb(163, 163, 214);
+    margin-bottom: 10px;
 }
 
-.about-section{
+.section-about{
     background-color:rgb(98, 243, 207);
     height: 300px;
     margin-bottom:50px;
@@ -44,8 +41,8 @@
     border:1px solid black;
 }
 
-.contact{
-    height: 200px;
+.section-contacts{
+    height: 250px;
     margin-bottom: 50px;
 }
 
@@ -55,6 +52,11 @@
 
 .info-contact-message{
     height: 100px;
+}
+
+.footer-container{
+    background-color:rgb(2, 24, 122);
+    height: 150px; 
 }
 
 .footer-content{
@@ -67,7 +69,8 @@
     height: 100px;
 }
 
-.bg-footer{
-    height: 80px;
-    background-color:rgb(1, 12, 59);
+.footer-section{
+    height: 100px;
+    /* background-color:rgb(1, 12, 59); */
+    background-color: grey;
 }
