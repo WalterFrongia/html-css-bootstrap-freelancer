@@ -12,9 +12,13 @@
     height: 100px;
 }
 
+.title-start, .text-start{
+    height: 50px;
+    border:1px solid black;
+}
+
 .portfolio{
     height:400px;
-    border:1px solid green;
     margin-bottom:50px;
 }
 
@@ -54,11 +58,16 @@
 }
 
 .footer-content{
-    background-color:rgb(45, 84, 255);
+    background-color:rgb(2, 24, 122);
     height: 150px;
 }
 
 .info-footer{
     border:1px solid black;
     height: 100px;
+}
+
+.bg-footer{
+    height: 80px;
+    background-color:rgb(1, 12, 59);
 }
