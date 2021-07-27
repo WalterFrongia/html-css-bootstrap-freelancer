@@ -14,9 +14,9 @@
     border:1px solid black;
 }
 
-.section-portfolio{
+/* .section-portfolio{
     height:500px;
-}
+} */
 
 .box-portfolio{
     height: 200px;
@@ -27,7 +27,6 @@
 
 .section-about{
     background-color:rgb(98, 243, 207);
-    height: 300px;
     margin-bottom:50px;
 }
 
@@ -41,10 +40,9 @@
     border:1px solid black;
 }
 
-.section-contacts{
-    height: 250px;
+/* .section-contacts{
     margin-bottom: 50px;
-}
+} */
 
 .info-contact{
     border-bottom:1px solid black;
