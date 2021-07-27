@@ -1,32 +1,56 @@
 .start-section{
-    background-color:rgb(98, 243, 207);
+    background-color:rgb(47, 189, 153);
     height: 400px;
     margin-bottom:50px;
 }
 
 .img-start-bootstrap{
-   background-color:blue;
-    height: 100px;
+    background-image: url(../img/avatar.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
 }
 
 .title-start, .text-start{
     height: 50px;
-    border:1px solid black;
+    color:white;
 }
 
-/* .section-portfolio{
-    height:500px;
-} */
+.linee-speciali{
+    height:2px;
+    background-color:white;
+    vertical-align: middle;
+}
+.container-star{
+    height: 20px;
+    text-align: center;
+}
+
+.container-star i{
+    color:white;
+    font-size: 30px;
+}
+
+.text-start{
+    font-size: 20px;
+}
 
 .box-portfolio{
     height: 200px;
     border:1px solid black;
-    background-color:rgb(163, 163, 214);
     margin-bottom: 10px;
 }
 
+.bg-img-house{
+    background-image: url(../img/safe.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+
 .section-about{
-    background-color:rgb(98, 243, 207);
+    background-color:rgb(47, 189, 153);
     margin-bottom:50px;
 }
 
