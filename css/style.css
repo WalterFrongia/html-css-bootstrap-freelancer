@@ -36,12 +36,9 @@
     font-size: 20px;
 }
 
-.box-portfolio{
-    height: 200px;
-    border:1px solid black;
-    margin-bottom: 10px;
+.container-img-100>img{
+    width:100%;
 }
-
 .bg-img-house{
     background-image: url(../img/safe.png);
     background-size:contain;
@@ -54,19 +51,12 @@
     margin-bottom:50px;
 }
 
-.about-text{
-    border:1px solid black;
-    height: 100px;
+.download-button>button{
+    background-color: transparent;
+    border:2px solid white;
+    border-radius:10px;
+    padding:10px 20px;
 }
-
-.download{
-    height: 50px;
-    border:1px solid black;
-}
-
-/* .section-contacts{
-    margin-bottom: 50px;
-} */
 
 .info-contact{
     border-bottom:1px solid black;
@@ -77,22 +67,9 @@
 }
 
 .footer-container{
-    background-color:rgb(2, 24, 122);
-    height: 150px; 
-}
-
-.footer-content{
-    background-color:rgb(2, 24, 122);
-    height: 150px;
-}
-
-.info-footer{
-    border:1px solid black;
-    height: 100px;
+    background-color:rgb(56, 68, 121);
 }
 
 .footer-section{
-    height: 100px;
-    /* background-color:rgb(1, 12, 59); */
     background-color: rgb(0, 18, 53);
 }
